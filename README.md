@@ -7,7 +7,7 @@ Using the terminal, go to the folder on your local computer where you want the r
 - git clone url
 
 
-Make sure to do at least 3 commits 
+Make sure to do at least 3 commits.  You should commit after each thing that you get working.
 
 - git status 
 - git add fileName
