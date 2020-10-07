@@ -6,6 +6,7 @@ On GitHub use the code button to get the url for your repo on GitHub - Do not do
 Using the terminal, go to the folder on your local computer where you want the repository to be cloned
 - git clone url
 
+Unzip the zip file wth the files for testing.
 
 Make sure to do at least 3 commits.  You should commit after each thing that you get working.
 
